@@ -1,4 +1,4 @@
 # Simple-WebhookSpammer
 # Released...🚀
 Specify Message & Amount⚡
-# Must have Aqua-Spammer.dll in the Same Directory!⚠️
+# Must have WebHook Sender Library.dll in the Same Directory!⚠️
